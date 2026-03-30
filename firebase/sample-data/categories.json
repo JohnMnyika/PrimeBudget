@@ -1,0 +1,32 @@
+[
+  {
+    "id": "salary",
+    "userId": "system",
+    "name": "Salary",
+    "type": "income",
+    "icon": "wallet",
+    "color": "#1D6F5F",
+    "keywords": ["salary", "payroll"],
+    "isSystem": true
+  },
+  {
+    "id": "food",
+    "userId": "system",
+    "name": "Food & Dining",
+    "type": "expense",
+    "icon": "utensils",
+    "color": "#FF7A59",
+    "keywords": ["food", "restaurant", "lunch", "dinner"],
+    "isSystem": true
+  },
+  {
+    "id": "transport",
+    "userId": "system",
+    "name": "Transport",
+    "type": "expense",
+    "icon": "car",
+    "color": "#3674B5",
+    "keywords": ["fuel", "uber", "matatu"],
+    "isSystem": true
+  }
+]

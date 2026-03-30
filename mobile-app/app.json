@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Prime Budget",
+    "slug": "prime-budget",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "primebudget",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.primebudget.mobile",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "Use Face ID to unlock Prime Budget securely.",
+        "NSSpeechRecognitionUsageDescription": "Use voice input to add transactions faster."
+      }
+    },
+    "android": {
+      "package": "com.primebudget.mobile",
+      "adaptiveIcon": {
+        "backgroundColor": "#0C1F1A"
+      },
+      "permissions": [
+        "USE_BIOMETRIC",
+        "POST_NOTIFICATIONS",
+        "RECORD_AUDIO"
+      ]
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-local-authentication",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "primebudget-ef682"
+      }
+    }
+  }
+}

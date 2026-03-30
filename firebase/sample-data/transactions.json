@@ -1,0 +1,33 @@
+[
+  {
+    "userId": "demo-user-001",
+    "type": "income",
+    "amount": 95000,
+    "currency": "KES",
+    "categoryId": "salary",
+    "categoryName": "Salary",
+    "accountId": "bank-main",
+    "accountName": "NCBA Salary Account",
+    "notes": "March salary",
+    "isRecurring": true,
+    "recurrenceRule": "monthly",
+    "source": "manual",
+    "occurredAt": "2026-03-01T08:00:00.000Z"
+  },
+  {
+    "userId": "demo-user-001",
+    "type": "expense",
+    "amount": 1250,
+    "currency": "KES",
+    "categoryId": "food",
+    "categoryName": "Food & Dining",
+    "accountId": "m-pesa-main",
+    "accountName": "M-Pesa",
+    "notes": "Lunch with client",
+    "isRecurring": false,
+    "recurrenceRule": null,
+    "source": "manual",
+    "occurredAt": "2026-03-25T11:30:00.000Z"
+  }
+]
+

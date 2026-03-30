@@ -1,0 +1,15 @@
+[
+  {
+    "id": "demo-user-001",
+    "userId": "demo-user-001",
+    "email": "amina@example.com",
+    "displayName": "Amina Njeri",
+    "currency": "KES",
+    "theme": "system",
+    "timezone": "Africa/Nairobi",
+    "biometricEnabled": false,
+    "defaultAccountId": "m-pesa-main",
+    "fcmTokens": []
+  }
+]
+

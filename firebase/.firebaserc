@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "primebudget-ef682"
+  },
+  "targets": {
+    "primebudget-ef682": {
+      "hosting": {
+        "admin": [
+          "primebudget-ef682"
+        ]
+      }
+    }
+  }
+}

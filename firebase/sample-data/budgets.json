@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "demo-user-001",
+    "monthKey": "2026-03",
+    "categoryId": "food",
+    "categoryName": "Food & Dining",
+    "limitAmount": 15000,
+    "spentAmount": 1250,
+    "alertThreshold": 0.8
+  }
+]
+

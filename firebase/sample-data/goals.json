@@ -1,0 +1,11 @@
+[
+  {
+    "userId": "demo-user-001",
+    "name": "Emergency Fund",
+    "targetAmount": 300000,
+    "savedAmount": 120000,
+    "targetDate": "2026-12-31T00:00:00.000Z",
+    "status": "active"
+  }
+]
+

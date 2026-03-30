@@ -1,0 +1,12 @@
+[
+  {
+    "userId": "demo-user-001",
+    "title": "Budget Alert",
+    "body": "Food budget is 80% used.",
+    "type": "budget_alert",
+    "read": false,
+    "metadata": {
+      "budgetId": "food-march-2026"
+    }
+  }
+]
