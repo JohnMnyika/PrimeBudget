@@ -14,5 +14,7 @@ ios
 mobile-app/.expo
 mobile-app/dist
 admin-dashboard/.next
+admin-dashboard/out
+firebase/hosting-admin
 firebase/functions/lib
 
